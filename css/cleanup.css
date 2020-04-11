@@ -1,1 +1,20 @@
 /* write your override styles here */
+
+.tag-1 {
+  background: url(https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png) no-repeat;
+  z-index: 7;
+  display: block;
+}
+
+#wall .tag-1 {
+  display: none;
+}
+#wall .tag-2 {
+  display: none;
+}
+#wall .tag-3 {
+  display: none;
+}
+#wall .tag-4 {
+  display: none;
+}
